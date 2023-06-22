@@ -12,7 +12,7 @@ My name is Agustin Vilariño, i am software developer from  📌  Buenos Aires, 
 
 📐  Backend - Design  📐
 
-![Screenshot](https://raw.githubusercontent.com/avilarino/backend-cafetera/master/images/cafetera-uml.png)
+![Screenshot](https://raw.githubusercontent.com/avilarino/backend-java-cafetera/master/images/cafetera-uml.png)
 
 
 
